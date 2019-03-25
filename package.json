@@ -1,7 +1,7 @@
 {
-  "name": "koa-static",
-  "description": "Static file serving middleware for koa",
-  "repository": "koajs/static",
+  "name": "koa-static-with-spa",
+  "description": "Static file and support spa serving middleware for koa",
+  "repository": "yukapril/koa-static-with-spa",
   "version": "5.0.0",
   "keywords": [
     "koa",
